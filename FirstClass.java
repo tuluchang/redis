@@ -14,4 +14,7 @@ public class FirstClass {
         System.out.println("hello redis");
     }
 
+    public void firstMethod(){
+
+    }
 }
