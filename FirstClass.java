@@ -14,7 +14,7 @@ public class FirstClass {
         System.out.println("hello redis");
     }
 
-    public void firstMethod(){
-
+    public void secondMethod(){
+        System.out.println("涂禄昌");
     }
 }
