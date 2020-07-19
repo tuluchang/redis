@@ -15,9 +15,9 @@ public class FirstClass {
     }
 
     public void secondMethod(){
-        System.out.println("9999999");
+        System.out.println("666666666");
         System.out.println("涂禄昌，我好开心啊，哈哈哈");
-        System.out.println("888888");
+        System.out.println("2222");
         System.out.println("涂禄昌，我好开心啊，哈哈哈");
     }
 }
